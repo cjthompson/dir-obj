@@ -1,0 +1,23 @@
+{
+  "name": "dir-obj",
+  "version": "1.0.0",
+  "description": "Recusively load files from a directory and return an object with keys from the directory and file names",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cjthompson/dir-obj.git"
+  },
+  "keywords": [
+    "directory",
+    "recusive",
+    "object",
+    "transform",
+    "require",
+    "load"
+  ],
+  "author": "Chris Thompson <chris@thompson-web.org>",
+  "license": "ISC"
+}
