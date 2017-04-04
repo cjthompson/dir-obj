@@ -32,6 +32,7 @@ const fixtures = dirObj.readDirectory(path.join(__dirname, 'fixtures'), {
   // Example: Do not include any directories that have no child keys
   dirTransform: (file, value) => Object.getOwnPropertyNames(value).length > 0 ? value : undefined
 });
+```
 
 ## Example
 Using the default options:
