@@ -1,6 +1,6 @@
 {
   "name": "dir-obj",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Recusively load files from a directory and return an object with keys from the directory and file names",
   "main": "index.js",
   "enginesStrict": {
